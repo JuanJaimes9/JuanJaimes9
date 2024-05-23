@@ -1,4 +1,4 @@
-# Juan Diego Jaimes
+# Hi, I'm *Juan Diego Jaimes*
 
 [![Linkedin Badge](https://img.shields.io/badge/-Juan%20Diego%20Jaimes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/juanjaimes99)](https:www.linkedin.com/in/juanjaimes99)
 [![Gmail Badge](https://img.shields.io/badge/-juandiegojaimesp99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juandiegojaimesp99@gmail.com)](mailto:juandiegojaimesp99@gmail.com)
