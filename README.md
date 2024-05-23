@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hi there! I'm Juan Diego Jaimes from Bochalema, Norte de Santander, Colombia. I'm passionate about technology and constantly seeking to improve my skills in programming and technical support.
+Hi there! I'm Juan Diego Jaimes from Colombia. I'm passionate about technology and constantly seeking to improve my skills in programming and technical support.
 
 ## Skills
 
