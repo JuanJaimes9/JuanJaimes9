@@ -11,7 +11,9 @@ Hi there! I'm Juan Diego Jaimes from Colombia. I'm passionate about technology a
 
 ## Skills
 
-- **Programming Languages**: HTML, CSS, JavaScript
+- **Programming Languages**: [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
 - **Frameworks & Libraries**: React
 - **Tools**: Git, GitHub, Figma, Adobe Illustrator, Adobe Photoshop
 - **Soft Skills**: Problem-solving, communication, teamwork
