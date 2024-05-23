@@ -11,15 +11,15 @@ Hi there! I'm Juan Diego Jaimes from Colombia. I'm passionate about technology a
 
 ## Skills
 
-- **Programming Languages**: [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
+- **Programming Languages**: [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/) 
+[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/) 
 - **Frameworks & Libraries**: [![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
-- **Tools**: [![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-orange?style=flat&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
-[![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+- **Tools**: [![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)](https://git-scm.com/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/) 
+[![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma&logoColor=white)](https://www.figma.com/) 
+[![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-orange?style=flat&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html) 
+[![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) 
 
 - **Soft Skills**: Problem-solving, communication, teamwork
 
