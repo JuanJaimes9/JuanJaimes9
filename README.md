@@ -1,16 +1,15 @@
-## Hi there 👋
+# Juan Diego Jaimes
 
-<!--
-**JuanJaimes9/JuanJaimes9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Juan%20Diego%20Jaimes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/juanjaimes99)](https:www.linkedin.com/in/juanjaimes99)
+[![Gmail Badge](https://img.shields.io/badge/-juandiegojaimesp99@gmail.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juandiegojaimesp99@gmail.com)](mailto:juandiegojaimesp99@gmail.com)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there! I'm Juan Diego Jaimes from Bochalema, Norte de Santander, Colombia. I'm passionate about technology and constantly seeking to improve my skills in programming and technical support.
+
+## Skills
+
+- **Programming Languages**: HTML, CSS, JavaScript
+- **Frameworks & Libraries**: React
+- **Tools**: Git, GitHub, Figma, Adobe Illustrator
+- **Soft Skills**: Problem-solving, communication, teamwork
