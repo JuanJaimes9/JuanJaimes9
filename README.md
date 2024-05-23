@@ -1,6 +1,6 @@
 # Juan D. Jaimes
 
-<img src="https://imgur.com/a/KGchVJg" alt="banner">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/KGchVJg"  ><a href="//imgur.com/a/KGchVJg">Banner1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 [![Linkedin Badge](https://img.shields.io/badge/-Juan%20Diego%20Jaimes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/juanjaimes99)](https:www.linkedin.com/in/juanjaimes99)
 [![Gmail Badge](https://img.shields.io/badge/-juandiegojaimesp99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juandiegojaimesp99@gmail.com)](mailto:juandiegojaimesp99@gmail.com)
 
