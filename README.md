@@ -11,5 +11,5 @@ Hi there! I'm Juan Diego Jaimes from Colombia. I'm passionate about technology a
 
 - **Programming Languages**: HTML, CSS, JavaScript
 - **Frameworks & Libraries**: React
-- **Tools**: Git, GitHub, Figma, Adobe Illustrator
+- **Tools**: Git, GitHub, Figma, Adobe Illustrator, Adobe Photoshop
 - **Soft Skills**: Problem-solving, communication, teamwork
