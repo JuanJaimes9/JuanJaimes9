@@ -26,8 +26,8 @@ Hi there! I'm Juan Diego Jaimes from Colombia. I'm passionate about technology a
 
 ## Contact
 
-I'm available to work on exciting projects and opportunities. Feel free to reach out to me via [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanjaimes99)](https://www.linkedin.com/in/juanjaimes99)
-[![Gmail Badge](https://img.shields.io/badge/-email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juandiegojaimesp99@gmail.com)](mailto:juandiegojaimesp99@gmail.com)
+I'm available to work on exciting projects and opportunities. Feel free to reach out to me via [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanjaimes99)](https://www.linkedin.com/in/juanjaimes99) or 
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juandiegojaimesp99@gmail.com)](mailto:juandiegojaimesp99@gmail.com)
 
 
 ---
