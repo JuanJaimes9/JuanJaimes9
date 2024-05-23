@@ -2,7 +2,7 @@
 
 ![Banner1](https://github.com/JuanJaimes9/JuanJaimes9/assets/129762192/90186ed8-3220-4bb6-bf64-bda145a0afc3)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Juan%20Diego%20Jaimes-blue?style=flat-square&logo=Linkedin&logoColor=white&link="linkedin.com/juanjaimes99")](https:www.linkedin.com/juanjaimes99)
+[![Linkedin Badge](https://img.shields.io/badge/-Juan%20Diego%20Jaimes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/juanjaimes99)](https:www.linkedin.com/juanjaimes99)
 [![Gmail Badge](https://img.shields.io/badge/-juandiegojaimesp99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juandiegojaimesp99@gmail.com)](mailto:juandiegojaimesp99@gmail.com)
 
 ## About Me
