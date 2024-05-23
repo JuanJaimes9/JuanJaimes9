@@ -1,4 +1,3 @@
-#  Juan D. Jaimes
 
 ![Banner1](https://github.com/JuanJaimes9/JuanJaimes9/assets/129762192/90186ed8-3220-4bb6-bf64-bda145a0afc3)
 
