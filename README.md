@@ -13,3 +13,12 @@ Hi there! I'm Juan Diego Jaimes from Colombia. I'm passionate about technology a
 - **Frameworks & Libraries**: React
 - **Tools**: Git, GitHub, Figma, Adobe Illustrator, Adobe Photoshop
 - **Soft Skills**: Problem-solving, communication, teamwork
+
+
+## Contact
+
+I'm available to work on exciting projects and opportunities. Feel free to reach out to me via [LinkedIn](https:www.linkedin.com/in/juanjaimes99) or [email](mailto:juandiegojaimesp99@gmail.com).
+
+---
+
+Thank you for visiting my GitHub profile!
